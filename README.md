@@ -11,7 +11,6 @@ BACHELOR OF SCIENCE (INFORMATION TECHNOLOGY)
 
 	
 
-UNDER THE GUIDANCE OF:                        SUBMITTED BY:
-MR.AAGMAN KAPARWAN                            YATHARTH BHATT
-ASSISTANT PROFESSOR                           BSC IT
-USCS                                          ROLL NO: 47
+UNDER THE GUIDANCE OF: MR.AAGMAN KAPARWAN (ASSISTANT PROFESSOR)               
+                            
+SUBMITTED BY: YATHARTH BHATT ( ROLL NO 47 )
