@@ -1,18 +1,17 @@
 # College-Mini-projects-Dump
 NOTE : THE ABOVE FILE HAVE PROJECTS IN BOTH C AND CPP 
-                            
-			    
-##                            SESSION 2024-25
-##                          MINI PROJECT SYNOPSIS
-##                                  ON
-##                     STUDENT GRIEVANCE REDRESSAL CELL
-##                 SUBMITTED IN THE PARTIAL FULFILLMENT FOR
-##                          THE AWARD OF DEGREE OF
-##              BACHELOR OF SCIENCE (INFORMATION TECHNOLOGY)
+   
+
+SESSION 2024-25
+MINI PROJECT SYNOPSIS
+ON
+STUDENT GRIEVANCE REDRESSAL CELL
+SUBMITTED IN THE PARTIAL FULFILLMENT FOR THE AWARD OF DEGREE OF
+BACHELOR OF SCIENCE (INFORMATION TECHNOLOGY)
 
 	
 
-##           UNDER THE GUIDANCE OF:                   SUBMITTED BY:
-##           MR.AAGMAN KAPARWAN                      YATHARTH BHATT
-##           ASSISTANT PROFESSOR                   BSC IT   ROLL NO: 47
-                                                          
+UNDER THE GUIDANCE OF:                        SUBMITTED BY:
+MR.AAGMAN KAPARWAN                            YATHARTH BHATT
+ASSISTANT PROFESSOR                           BSC IT
+USCS                                          ROLL NO: 47
